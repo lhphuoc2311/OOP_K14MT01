@@ -48,8 +48,8 @@ public class HinhTrungBienHinh extends Hinh {
 
     // override: ghi de/thay the
 
-    @Override
-    public void choiNhac() {
+    @Override//GHI ĐÈ
+    public void choiNhac() {//HIF
         System.out.println("Phat am thanh file .hif: " + this.getFile());
     }
 

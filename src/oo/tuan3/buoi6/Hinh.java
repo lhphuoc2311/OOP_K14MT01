@@ -24,7 +24,7 @@ public class Hinh {
         return this.fileAmThanh;
     }
 
-    public void choiNhac() {
+    public void choiNhac() {// AIF
         System.out.println("Dang choi nhac .aif ---- " + fileAmThanh);
     }
 

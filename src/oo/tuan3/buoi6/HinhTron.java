@@ -5,4 +5,5 @@
 package oo.tuan3.buoi6;
 
 public class HinhTron extends Hinh {
+    
 }
